@@ -39,7 +39,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          I am an Data Scientist with a Master's degree 
+          I am a Data Scientist with a Master's degree 
           in Engineering Management from Northeastern University, specializing 
           in machine learning, data analytics, and optimizing computational 
           processes. My expertise includes translating business needs into 
